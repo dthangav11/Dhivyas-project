@@ -2,3 +2,4 @@ Tutorial for hithub
 1) Create an account
 2) Sign in
 3) Create new repository with read me
+4) Upload the code file and commit as initial Commit
