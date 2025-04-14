@@ -1,2 +1,2 @@
 # Dhivyas-project
-The repository Contains Dhivya's works
+The repository Contains dhivya's works
