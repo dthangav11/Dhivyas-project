@@ -1,0 +1,4 @@
+Tutorial for hithub
+1) Create an account
+2) Sign in
+3) Create new repository with read me
