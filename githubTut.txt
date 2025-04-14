@@ -3,3 +3,4 @@ Tutorial for hithub
 2) Sign in
 3) Create new repository with read me
 4) Upload the code file and commit as initial Commit
+5) we can see the commit changes in the insights option
